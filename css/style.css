@@ -1,0 +1,27 @@
+body{
+  font-family: arial,sans-serif,helvetica;
+  color: white;
+
+  background: url('../img/sunset.jpg')no-repeat;
+  background-size:cover;
+}
+hr{
+  background-color: #ffffff;
+}
+.full-container .main-header h1{
+  color: #ffffff;
+  text-align: center;
+  padding-top: 30px;
+}
+.signup-container{
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 8%;
+}
+.signup-container .form-group button{
+  margin-left: 230px;
+  width: 200px;
+}
+.signup-container .form-group{
+  padding-left: 20px;
+}
